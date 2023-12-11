@@ -1,1 +1,1 @@
-# Lab-Work-Synthesis-Jade-and-Leticia
+# Lab Work Synthesis Jade and Leticia
