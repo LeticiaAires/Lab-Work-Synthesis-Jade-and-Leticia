@@ -6,6 +6,9 @@ This project aims to develop a Trivial File Transfer Protocol (TFTP) client adhe
 
 ## Table of Contents
 
+1. [Considerations](#considerations)
+2. [Colaborators](#colaborators)
+
 # Considerations
 ## Difficulties Encountered
 
